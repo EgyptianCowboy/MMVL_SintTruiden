@@ -1,0 +1,2 @@
+https://www.pjrc.com/teensy/td_libs_AltSoftSerial.html
+https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
